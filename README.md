@@ -12,3 +12,5 @@ Change sitemap cookie.exe.config (a local should work, untested)
 Will produce a csv with all cookies found on crawled site in format:
 
 Page, cookie_domain, cookie_name, cookie_value
+
+If you want to play around with the source, you need these ddl's: http://selenium-release.storage.googleapis.com/2.44/selenium-dotnet-2.44.0.zip
