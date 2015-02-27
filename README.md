@@ -3,9 +3,9 @@ Cookie crawler (windows and .net 4.0)
 
 This require:
 
-Sitemap: In this format: http://www.sitemaps.org/protocol.html
-Chrome: (Any version should do)
-Chromedriver: http://chromedriver.storage.googleapis.com/index.html (i'm used 2.14)
+  Sitemap: In this format: http://www.sitemaps.org/protocol.html
+  Chrome: (Any version should do)
+  Chromedriver: Download file to same dir as cookie.exe etc. http://chromedriver.storage.googleapis.com/index.html (i'm used 2.14)
 
 Change sitemap cookie.exe.config (a local should work, untested)
 
