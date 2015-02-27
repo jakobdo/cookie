@@ -1,0 +1,22 @@
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\cookie.exe
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\cookie.pdb
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.dll
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.Support.dll
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.pdb
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.xml
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.Support.pdb
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\bin\Release\WebDriver.Support.xml
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\obj\x86\Release\cookie.exe
+C:\Users\jdo\AppData\Local\Temporary Projects\cookie\obj\x86\Release\cookie.pdb
+C:\temp\cookie\cookie\obj\x86\Release\cookie.exe
+C:\temp\cookie\cookie\obj\x86\Release\cookie.pdb
+C:\temp\cookie\cookie\bin\Release\cookie.exe
+C:\temp\cookie\cookie\bin\Release\cookie.pdb
+C:\temp\cookie\cookie\bin\Release\WebDriver.dll
+C:\temp\cookie\cookie\bin\Release\WebDriver.Support.dll
+C:\temp\cookie\cookie\bin\Release\WebDriver.pdb
+C:\temp\cookie\cookie\bin\Release\WebDriver.xml
+C:\temp\cookie\cookie\bin\Release\WebDriver.Support.pdb
+C:\temp\cookie\cookie\bin\Release\WebDriver.Support.xml
+C:\temp\cookie\cookie\obj\x86\Release\cookie.csprojResolveAssemblyReference.cache
+C:\temp\cookie\cookie\bin\Release\cookie.exe.config
